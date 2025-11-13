@@ -1,3 +1,3 @@
 # wk12
 
-<a href="index.html">index html</a>
+<a href="Wk10Code (2)/index.html">index html</a>
